@@ -4,3 +4,4 @@ bar
 foobar
 Stash with message
 something to stash
+content from someotherbranch
